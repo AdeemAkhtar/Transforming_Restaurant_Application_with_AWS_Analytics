@@ -81,4 +81,4 @@ The transition from a traditional cloud-hosted application to an analytics-enabl
 By combining Amazon API Gateway, Kinesis Data Firehose, Lambda, S3, Athena, and QuickSight, organisations can create a scalable, secure, and cost-effective analytics ecosystem that transforms raw data into meaningful business intelligence.
 As businesses continue their cloud transformation journeys, integrating analytics into application architectures is no longer optional. It's a key driver of innovation, operational excellence, and competitive advantage.
 
-#AWS #CloudComputing #DataAnalytics #Serverless #AmazonWebServices #Architecture #BusinessIntelligence #DataEngineering #QuickSight #Athena #Lambda #Kinesis #CloudArchitecture #DigitalTransformation #CloudEngineer #SolutionArchitect
+#AWS #CloudComputing #DataAnalytics #Serverless #AmazonWebServices #Architecture #BusinessIntelligence #QuickSight #Athena #Lambda #Kinesis #CloudArchitecture #DigitalTransformation #CloudEngineer #SolutionArchitect
