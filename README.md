@@ -32,13 +32,13 @@ The following is an improved and more scalable analytics architecture. The archi
 ![<# alt text #>](Updated_Architecture.png "Updated_Architecture.png")
 
 ## AWS Services Used:
-**Amazon API Gateway:** Acts as the entry point for the application and securely receives API requests, user activity, and transaction data from the system.
-**Amazon Kinesis Data Firehose:** Collects and streams real-time data from the application to storage services for analytics processing.
-**AWS Lambda:** Transforms data before Amazon Kinesis Data Firehose ingests it into the object storage bucket
-**Amazon S3 (Simple Storage Service):** Stores application data, logs, analytics data, and processed files in a scalable and durable storage system.
-**Amazon Athena:** Allows SQL queries directly on data stored in S3 without needing a separate database server.
-**Amazon QuickSight:** Creates custom dashboards, charts, and visual analytics reports for monitoring business insights and customer trends.
-**Amazon Cloud / AWS Environment:** Provides a secure and scalable cloud infrastructure where all services are hosted and connected.
+* **Amazon API Gateway:** Acts as the entry point for the application and securely receives API requests, user activity, and transaction data from the system.
+* **Amazon Kinesis Data Firehose:** Collects and streams real-time data from the application to storage services for analytics processing.
+* **AWS Lambda:** Transforms data before Amazon Kinesis Data Firehose ingests it into the object storage bucket
+* **Amazon S3 (Simple Storage Service):** Stores application data, logs, analytics data, and processed files in a scalable and durable storage system.
+* **Amazon Athena:** Allows SQL queries directly on data stored in S3 without needing a separate database server.
+* **Amazon QuickSight:** Creates custom dashboards, charts, and visual analytics reports for monitoring business insights and customer trends.
+* **Amazon Cloud / AWS Environment:** Provides a secure and scalable cloud infrastructure where all services are hosted and connected.
 
 ## Security Considerations:
 * API Security (Amazon API Gateway)
