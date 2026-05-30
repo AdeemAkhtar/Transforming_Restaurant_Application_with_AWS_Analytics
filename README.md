@@ -1,6 +1,6 @@
 # Transforming a Restaurant Application with AWS Analytics: From Static Hosting to Data-Driven Insights
 In today's digital landscape, simply hosting an application is no longer enough. Businesses need actionable insights from their data to improve customer experiences, optimise operations, and make informed decisions. Recently, I explored how a traditional restaurant application architecture can be enhanced with AWS analytics services to unlock greater business value.
-![<# alt text #>](Title_Architecture.png "Graphic Design Skills (1200 x 780 px) - 1")
+![<# alt text #>](Title.png "Graphic Design Skills (1200 x 780 px) - 1")
 
 ## Client Business Overview:
 The client owns a restaurant and has a dedicated development team responsible for maintaining its application. Rather than providing customers with traditional printed menus, QR codes have been placed on each table throughout the restaurant. When scanned, these QR codes direct customers to a static website where they can browse the menu and select the items they wish to order. Once customers have made their selections, a waiter attends the table to take note of the order, after which the food preparation and serving process begins.
